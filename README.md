@@ -69,20 +69,6 @@ Include high-level insights here like:
 GitHub: [@Anindita531](https://github.com/Anindita531)
 
 ---
-
-## 📝 Notes
-
-Make sure to **link your dataset** (source, download link, or storage location) so others can reproduce your results.  
-
 Include some **screenshots of dashboards/plots** in a `README_images/` folder so visuals show up on GitHub.
 
 ---
-
-If you want, I can also generate:
-
-✅ GitHub **description + topics** text  
-✅ **Resume bullets** for this project  
-✅ A **one-page project PDF overview** for interviews
-
-Which one should I do next? 🚀
-::contentReference[oaicite:1]{index=1}
